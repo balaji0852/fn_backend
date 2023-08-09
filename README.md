@@ -12,6 +12,9 @@ command -> nohup java -jar filename.jar</div>
 </br>
 <h2>Some new Testing outputs</h2>
 </br>
+<div>configurations before the   tests</div>
+<img src="configsForBackendTest.JPG"/>
+</br>
 <div>1</div>
 <img src="test1.JPG"/>
 </br>
@@ -24,8 +27,6 @@ command -> nohup java -jar filename.jar</div>
 <div>5</div>
 <img src="test5.JPG"/>
 </br>
-<div>1</div>
-<img src="test1.JPG"/>
-</br>
-<div>1</div>
-<img src="test1.JPG"/>
+<div>6</div>
+<img src="testFortuedayDBPconfig.JPG"/>
+
