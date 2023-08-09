@@ -3,7 +3,7 @@
 <h5>Setup details and environmental requirements</h5>
 <div>* 1.environmental requirements : PostgresSQL, and Java </div>
 <div>* 2.Configure the backend application with Java, postgres SQL(default database name postgres, with default username and password , that is postgres, start the java application for table creation)</div>
-<div>* 3.Backend jar file is attached in this repo, with configuration from point 2</div>
+<div>* 3.Backend jar file is attached in this repo(here 🚴‍♀️ https://drive.google.com/file/d/1B_0TZXtjYU09FUh1IBQjMe3IAvYIWur9/view?usp=drive_link), with configuration from point 2</div>
 <div>* run the .jar file with following command
 command -> nohup java -jar filename.jar</div>
 <div>* For further setup details, check fn_frontend repos->readme->software configuration</div>
